@@ -18,7 +18,7 @@ pip install requests colorama
 
 ### 1. `key.txt` (obrigatório se usar proxy ou ScraperAPI)
 
-Crie um arquivo `key.txt` na mesma pasta do script. Coloque uma entrada por linha:
+Crie um arquivo `key.txt` na mesma pasta do script(OBS: Ja disponibilizei uma pra uso). Coloque uma entrada por linha:
 
 ```
 # Chaves ScraperAPI (32 caracteres hex)
