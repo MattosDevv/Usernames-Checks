@@ -1,7 +1,7 @@
 # Discord Username Checker
 Ferramenta para verificar disponibilidade de usernames no Discord, com suporte a proxies, ScraperAPI e notificações via webhook.
 
----
+
 
 ## Requisitos
 
@@ -12,7 +12,7 @@ Ferramenta para verificar disponibilidade de usernames no Discord, com suporte a
 pip install requests colorama
 ```
 
----
+
 
 ## Configuração
 
@@ -32,7 +32,7 @@ usuario:senha@192.168.0.1:8080
 Linhas começando com `#` são ignoradas.
 
 
----
+
 
 ## Como usar
 
