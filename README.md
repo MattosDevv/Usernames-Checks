@@ -22,7 +22,7 @@ Crie um arquivo `key.txt` na mesma pasta do script(OBS: Ja disponibilizei uma pr
 
 ```
 # Chaves ScraperAPI (32 caracteres hex)
-a1b2c3d4e1b2c3d4e1b2c3d4e1b2c3d4
+5473719bd3b5dba72e7dae854dfd7e96 (Chave valida pronta para uso, so falta criar o key.txt e colocar dentro).
 
 # Proxies (formato user:pass@host:port ou host:port)
 usuario:senha@192.168.0.1:8080
